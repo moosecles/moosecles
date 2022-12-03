@@ -1,6 +1,6 @@
 ### Hello!
 
-<img width="35%" align="right" style="border-radius:50%" alt="Github" src="https://i.imgur.com/Wb64Jle.png" />
+<img width="20%" align="right" style="border-radius:50%" alt="Github" src="https://i.imgur.com/Wb64Jle.png" />
 
 I'm a computer science student who is likes to build cool things. Always constantly thinking and implementing new ideas. 
 
