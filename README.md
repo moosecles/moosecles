@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jayson.murphy99@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/moosecles/portfolio/blob/main/assets/Murphy_Jayson_Resume.pdf](https://github.com/moosecles/portfolio/blob/main/assets/Murphy_Jayson_Resume.pdf)
+- 📄 Know about my experiences [Latest Resume](https://github.com/moosecles/portfolio/blob/main/assets/Murphy_Jayson_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
