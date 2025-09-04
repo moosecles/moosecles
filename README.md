@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://moosecles.github.io/portfolio](https://moosecles.github.io/portfolio)
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **jayson.murphy99@gmail.com**
 
 - 📄 Know about my experiences [Latest Resume](https://github.com/moosecles/portfolio/blob/main/assets/Murphy_Jayson_Resume.pdf)
